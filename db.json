@@ -2,7 +2,7 @@
   "stock":[
    {
     "id": "item00001",
-    "status": "15",
+    "quantity": "15",
     "warehouse": "Osaka"
    },
    {
