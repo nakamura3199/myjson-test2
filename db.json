@@ -1,11 +1,14 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "stock":[
+   {
+    "id": "item00001",
+    "status": "15",
+    "warehouse": "Osaka"
+   },
+   {
+    "id": "item00002",
+    "quantity": "0",
+    "warehouse": "None"
+   }
+  ]
 }
