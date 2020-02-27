@@ -140,5 +140,47 @@
       "itemCode": "item00010",
       "quantity": 100
     }
+  ],
+  "search": [
+    {
+      "id": "フラットシューズ",
+      "itemCode": "item00001"
+    },
+    {
+      "id": "ケーブル編みマフラー",
+      "itemCode": "item00002"
+    },
+    {
+      "id": "ハイネックボリュームニットSS",
+      "itemCode": "item00003"
+    },
+    {
+      "id": "T/R アーバンミリタリー コーチジャケット",
+      "itemCode": "item00004"
+    },
+    {
+      "id": "ストレートデニム",
+      "itemCode": "item00005"
+    },
+    {
+      "id": "マルチスリーブブラウス",
+      "itemCode": "item00006"
+    },
+    {
+      "id": "SERRANO / セラーノ",
+      "itemCode": "item00007"
+    },
+    {
+      "id": "ストレッチショートブーツ",
+      "itemCode": "item00008"
+    },
+    {
+      "id": "BY ムートングローブ 19FW o",
+      "itemCode": "item00009"
+    },
+    {
+      "id": "トラックパンツ [SST TRACK PANTS]",
+      "itemCode": "item00010"
+    }
   ]
 }
