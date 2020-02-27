@@ -86,6 +86,31 @@
       "quantity": 5
     },
     {
+      "id": "00004002",
+      "itemCode": "item00004",
+      "quantity": 10
+    },
+    {
+      "id": "00004003",
+      "itemCode": "item00004",
+      "quantity": 0
+    },
+    {
+      "id": "00004004",
+      "itemCode": "item00004",
+      "quantity": 100
+    },
+    {
+      "id": "00004005",
+      "itemCode": "item00004",
+      "quantity": 100
+    },
+    {
+      "id": "00004006",
+      "itemCode": "item00004",
+      "quantity": 100
+    },
+    {
       "id": "00005001",
       "itemCode": "item00005",
       "quantity": 0
