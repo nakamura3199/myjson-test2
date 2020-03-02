@@ -11,7 +11,7 @@
     "warehouse": "None"
    }
   ],
-  "stock2": [
+  "stock_detail": [
     {
       "id": "00001001",
       "itemCode": "item00001",
