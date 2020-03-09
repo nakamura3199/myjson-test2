@@ -203,20 +203,4 @@
       "sellingPrice": "8789"
     }
   ]
-  "category": [
-    {
-      "id": "category0001",
-      "categoryName": "シューズ",
-      {
-      "itemCode": "item00001",
-      "itemName": "フラットシューズ",
-      "sellingPrice": "12000"
-      },
-      {
-      "itemCode": "item00008",
-      "itemName": "ストレッチショートブーツ",
-      "sellingPrice": "10450"
-      },
-    }
-  ]
 }
