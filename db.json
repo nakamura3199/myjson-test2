@@ -26,18 +26,160 @@
    }
   ],
   "stock_allocation":[
-   {
-     "id": "00001001",
-     "itemCode": "item00001",
-     "quantity": 100,
-     "status": "OK"
-   },
-   {
-     "id": "00001002",
-     "itemCode": "item00001",
-     "quantity": 5,
-     "status": "NG"
-   }
+    {
+      "id": "00001001",
+      "itemCode": "item00001",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00001002",
+      "itemCode": "item00001",
+      "quantity": 5,
+      "status": "NG"
+    },
+    {
+      "id": "00001003",
+      "itemCode": "item00001",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00001004",
+      "itemCode": "item00001",
+      "quantity": 0,
+      "status": "OK"
+    },
+    {
+      "id": "00001005",
+      "itemCode": "item00001",
+      "quantity": 0,
+      "status": "OK"
+    },
+    {
+      "id": "00001006",
+      "itemCode": "item00001",
+      "quantity": 100,
+      "status": "OK"
+    },{
+      "id": "00002001",
+      "itemCode": "item00002",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00002002",
+      "itemCode": "item00002",
+      "quantity": 5,
+      "status": "OK"
+    },
+    {
+      "id": "00003001",
+      "itemCode": "item00003",
+      "quantity": 0,
+      "status": "OK"
+    },
+    {
+      "id": "00003002",
+      "itemCode": "item00003",
+      "quantity": 100,
+      "status": "OK"
+    },{
+      "id": "00003003",
+      "itemCode": "item00003",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00003004",
+      "itemCode": "item00003",
+      "quantity": 5,
+      "status": "OK"
+    },
+    {
+      "id": "00003005",
+      "itemCode": "item00003",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00003006",
+      "itemCode": "item00003",
+      "quantity": 0,
+      "status": "OK"
+    },
+    {
+      "id": "00004001",
+      "itemCode": "item00004",
+      "quantity": 5,
+      "status": "OK"
+    },
+    {
+      "id": "00004002",
+      "itemCode": "item00004",
+      "quantity": 10,
+      "status": "OK"
+    },
+    {
+      "id": "00004003",
+      "itemCode": "item00004",
+      "quantity": 0,
+      "status": "OK"
+    },
+    {
+      "id": "00004004",
+      "itemCode": "item00004",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00004005",
+      "itemCode": "item00004",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00004006",
+      "itemCode": "item00004",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00005001",
+      "itemCode": "item00005",
+      "quantity": 0,
+      "status": "OK"
+    },
+    {
+      "id": "00006001",
+      "itemCode": "item00006",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00007001",
+      "itemCode": "item00007",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00008001",
+      "itemCode": "item00008",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00009001",
+      "itemCode": "item00009",
+      "quantity": 100,
+      "status": "OK"
+    },
+    {
+      "id": "00010001",
+      "itemCode": "item00010",
+      "quantity": 100,
+      "status": "OK"
+    }
   ],
   "stock_detail": [
     {
